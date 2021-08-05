@@ -30,7 +30,7 @@ Technologies
 - Pandas
 - Numpy
 
-To run the Project
+Getting Started
 ----------------------
 Clone the repository:
 
