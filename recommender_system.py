@@ -184,6 +184,7 @@ if(mode == 1):
 
 def show_histogram_num_of_ratings():
     plt.hist(ratings['rating_numbers'], bins=70)
+
     plt.title("Number of ratings histogram")
     plt.show()
 
@@ -208,10 +209,15 @@ if(mode == 1):
     ratings.head()
 
     plt.figure(figsize=(10, 4))
+    plt.xlabel('number of ratings')
+    plt.ylabel('Frequency')
     ratings['num of ratings'].hist(bins=70)
+
     plt.show()
 
     plt.figure(figsize=(10, 4))
+    plt.xlabel('ratings')
+    plt.ylabel('users')
     ratings['rating'].hist(bins=70)
     plt.show()
 
