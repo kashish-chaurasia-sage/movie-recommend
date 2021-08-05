@@ -14,14 +14,18 @@ The project is divided into three stages:
 
 Data Visualizations
 -------------------
-* histogram - num_of_ratings
+* histogram - num_of_ratings   
 ![](output/visualization1.png)
-* histogram - avg_rating_per_movie
+
+* histogram - avg_rating_per_movie    
 ![](output/visualization2.png)
-* joinplot - ratings & numratings
+
+* joinplot - ratings & num_of_ratings   
 ![](output/visualization3.png)
-* Movie recommendations based on ratings of other user
-![](output/recommendations.png)
+
+* Movie recommendations based on ratings of other user   
+
+![](output/recommendations.PNG)
 
 Dataset
 -------
