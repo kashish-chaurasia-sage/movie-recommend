@@ -12,6 +12,17 @@ The project is divided into three stages:
 * Results Analysis
 * Movie Recommendations
 
+Data Visualizations
+-------------------
+* histogram - num_of_ratings
+![](output/visualization1.png)
+* histogram - avg_rating_per_movie
+![](output/visualization2.png)
+* joinplot - ratings & numratings
+![](output/visualization3.png)
+* Movie recommendations based on ratings of other user
+![](output/recommendations.png)
+
 Dataset
 -------
 It contains 100836 ratings and 3683 tag applications across 9742 movies. These data were created by 610 users between March 29, 1996 and September 24, 2018. This dataset was generated on September 26, 2018.
