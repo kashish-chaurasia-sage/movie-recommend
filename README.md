@@ -53,6 +53,17 @@ Run the python file
 $ python3 Recommender Systems.py
 ```
 
+Data Visualizations
+-------------------
+* histogram - num_of_ratings
+![](output/visualization1.png)
+* histogram - avg_rating_per_movie
+![](output/visualization2.png)
+* joinplot - ratings & numratings
+![](output/visualization3.png)
+* Movie recommendations based on ratings of other user
+![](output/recommendations.png)
+
 Contributing
 ------------
 Contributions are actively encouraged. Please review the code. If you find a bug, or any improvement please [email me](kashish.chaurasia10@gmail.com), submit a pull request or submit an issue.
